@@ -1,0 +1,22 @@
+:host {
+    display: block;
+    padding-top: 145px;
+}
+.logo {
+    float: left;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+.main-wrapper {
+    padding: 0 35px;
+}
+.heading {
+    margin-bottom: 30px;
+}
+.grid-menu {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(2, 1fr);
+}

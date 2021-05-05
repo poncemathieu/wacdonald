@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+ *{
+     margin: 0;
+     padding: 0;
+ }
+ body{
+     font-family: 'Montserrat';
+ }
+ h1 {
+     font-weight: 900;
+     font-size: 32px;
+ }
+ h3 {
+     font-size: 28px;
+     font-weight: 500;
+ }
